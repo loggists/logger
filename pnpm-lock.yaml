@@ -7,11 +7,10 @@ settings:
 importers:
 
   .:
-    dependencies:
+    devDependencies:
       '@changesets/cli':
         specifier: ^2.27.11
         version: 2.27.11
-    devDependencies:
       '@cspell/eslint-plugin':
         specifier: ^8.17.1
         version: 8.17.1(eslint@9.17.0)
